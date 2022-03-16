@@ -1,2 +1,2 @@
-email_="anuvabtest@gmail.com"
-pass_="xspsbmvpylwnftou"
+email_="xyz"
+pass_="xyz"
